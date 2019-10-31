@@ -47,7 +47,7 @@
                                    position: new google.maps.LatLng(carMarker["lat"], carMarker["lng"]),
                                    map: map,
                                    title: carMarker["_id"],
-                                   icon: "https://tuftsdev.github.io/WebProgramming/assignments/summer2019/car.png"
+                                   icon: "https://mikaylaclark.github.io/notuber/car.png"
                                    });
                                }
 
