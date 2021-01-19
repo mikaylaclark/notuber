@@ -1,6 +1,2 @@
-I worked approximately 7 hours collectively on this homework. I did not collaborate or work with anyone.
-I think overall, I was able to successfully load the JSON data onto the map, and place the cars down
-using the car icon given in the lab. Also, I was able to load the info window properly, as well as the
-polyline. The one issue I had with this assignment was making sure the "closest vehicle" was actually
-the closest vehicle. I believe this, though, was correct.
+In this project, I utilized the Google Maps API to dynamically display vehicles onto a map. I parsed JSON data from a REST API to receive car location info. User can click on a car to see the distance from their current location.
 # notuber
